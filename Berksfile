@@ -15,3 +15,5 @@ cookbook 'runit', git: 'https://github.com/levkov-cookbooks/runit.git'
 cookbook 'build-essential', git: 'https://github.com/levkov-cookbooks/build-essential.git'
 
 cookbook 'yum-epel', git: 'https://github.com/levkov-cookbooks/yum-epel.git'
+
+cookbook 'packagecloud', git: 'https://github.com/levkov-cookbooks/packagecloud.git'
