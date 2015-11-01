@@ -1,4 +1,4 @@
-source "https://supermarket"
+source "http://api.berkshelf.com"
 
 metadata
 
